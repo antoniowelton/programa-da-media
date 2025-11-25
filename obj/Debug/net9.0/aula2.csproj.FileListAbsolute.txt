@@ -1,0 +1,14 @@
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\aula2\bin\Debug\net9.0\aula2.exe
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\aula2\bin\Debug\net9.0\aula2.deps.json
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\aula2\bin\Debug\net9.0\aula2.runtimeconfig.json
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\aula2\bin\Debug\net9.0\aula2.dll
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\aula2\bin\Debug\net9.0\aula2.pdb
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\aula2\obj\Debug\net9.0\aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\aula2\obj\Debug\net9.0\aula2.AssemblyInfoInputs.cache
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\aula2\obj\Debug\net9.0\aula2.AssemblyInfo.cs
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\aula2\obj\Debug\net9.0\aula2.csproj.CoreCompileInputs.cache
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\aula2\obj\Debug\net9.0\aula2.dll
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\aula2\obj\Debug\net9.0\refint\aula2.dll
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\aula2\obj\Debug\net9.0\aula2.pdb
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\aula2\obj\Debug\net9.0\aula2.genruntimeconfig.cache
+C:\Users\Welton\Desktop\WELTON\CURSO SENAC\ADS-SUPERIOR\aula2\obj\Debug\net9.0\ref\aula2.dll

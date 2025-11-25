@@ -1,0 +1,41 @@
+namespace aula2;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("PROGRAMA DA MÉDIA");
+
+        Console.WriteLine("Informe a primeira nota:");
+        double nota1 = Convert.ToDouble(Console.ReadLine());
+
+        Console.WriteLine("Informe a segunda nota:");
+        double nota2 = Convert.ToDouble(Console.ReadLine());
+
+        Console.WriteLine("Informe terceira nota:");
+        double nota3 = Convert.ToDouble(Console.ReadLine());
+
+
+        double media = (nota1 + nota2 + nota3) / 3;
+
+        //  string situacao = string.Empty;
+
+        //  string situacao = (media <= 6) ? "Reprovado!" : "Aprovado!"; // Essa forma substitui o if else de forma sem INDENTAÇÃO
+
+        string situacao = (media <= 6) // Essa forma substitui o if else de forma INDENTADA
+                            ? "Reprovado!"
+                            : "Aprovado!";
+
+        // if (media < 6)
+        // {
+        //    situacao = "Reprovado!";
+        // }
+        // else
+        // {
+        //    situacao = "Aprovado!";
+        // }
+
+        Console.WriteLine($"Média: {media}");
+        Console.WriteLine($"Situação: {situacao}");
+    }    
+}
